@@ -1,7 +1,7 @@
 # Facilitating The Talent Marketplace
 
 The full ATD runbook lives in the facilitator edition
-(https://me5231979.github.io/TransferPortal-/facilitator/), generated from
+(https://me5231979.github.io/TalentMarketplace/facilitator/), generated from
 `facilitator/notes.json`. Slide 1 of that edition ("Before the room fills")
 carries the prep checklists, materials, contingencies, tough-questions
 bank, and copy-paste templates. Print the whole packet from

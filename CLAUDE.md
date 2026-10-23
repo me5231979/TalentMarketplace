@@ -1,7 +1,7 @@
 # The Talent Marketplace — Vanderbilt Learning Series
 
 Single-page interactive classroom experience (Learning on Demand). Live at
-https://me5231979.github.io/TransferPortal-/ (GitHub Pages, `gh-pages`
+https://me5231979.github.io/TalentMarketplace/ (GitHub Pages, `gh-pages`
 branch — publish with `git branch -f gh-pages main && git push -f origin gh-pages`).
 
 Sister programs: AI_Classroom (AI Basics), AI-Advanced (AI 201),
@@ -20,7 +20,7 @@ catalog at me5231979/Course_Library. Same engine, same standing principles.
 3. **Never contradict the program facts:** NAMING: the HR program is
    "the Talent Marketplace"; the companion skills site at
    vanderbilttalentcompass.vercel.app is "the Talent Marketplace
-   Tool"; repo URLs (TransferPortal-) never change; the program rests on three
+   Tool"; repo URLs (TalentMarketplace, renamed from TransferPortal- in October 2026) never change; the program rests on three
    connected pieces (an ongoing growth conversation with your manager,
    recommended never required; a private skill map the staff member owns;
    Oracle as the operating layer for learning, declarations, Gigs, and

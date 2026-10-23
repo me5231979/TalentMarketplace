@@ -10,7 +10,7 @@ Run after editing index.html or notes.json:
 import json, re, html, os
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-LEARNER_URL = "https://me5231979.github.io/TransferPortal-/"
+LEARNER_URL = "https://me5231979.github.io/TalentMarketplace/"
 
 s = open(os.path.join(ROOT, 'index.html')).read()
 s = re.sub(r'<script src="assets/js/narration\.js[^"]*"></script>\n?', '', s)
@@ -240,7 +240,7 @@ s = s.replace('</body>', FAC_JS + '</body>')
 
 # ---- 7. footer marker ----
 s = s.replace('The Talent Marketplace · A Vanderbilt learning experience',
-              'The Talent Marketplace · Facilitator Edition · learner link: <a href="' + LEARNER_URL + '" style="color:rgba(255,255,255,.7);text-decoration:underline">me5231979.github.io/TransferPortal-</a>')
+              'The Talent Marketplace · Facilitator Edition · learner link: <a href="' + LEARNER_URL + '" style="color:rgba(255,255,255,.7);text-decoration:underline">me5231979.github.io/TalentMarketplace</a>')
 
 out = os.path.join(ROOT, 'facilitator', 'index.html')
 open(out, 'w').write(s)

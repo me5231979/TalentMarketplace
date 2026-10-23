@@ -8,9 +8,9 @@ Marketplace**, Vanderbilt's staff-facing internal talent mobility experience
 
 | Edition | URL | For |
 |---|---|---|
-| Classroom | https://me5231979.github.io/TransferPortal-/ | Projected in a room, group activities |
-| Self-paced | https://me5231979.github.io/TransferPortal-/web/ | Individual learners, solo variants of every activity |
-| Facilitator | https://me5231979.github.io/TransferPortal-/facilitator/ | The classroom deck with an ATD script rail on every slide |
+| Classroom | https://me5231979.github.io/TalentMarketplace/ | Projected in a room, group activities |
+| Self-paced | https://me5231979.github.io/TalentMarketplace/web/ | Individual learners, solo variants of every activity |
+| Facilitator | https://me5231979.github.io/TalentMarketplace/facilitator/ | The classroom deck with an ATD script rail on every slide |
 
 The facilitator edition includes a printable guide
 (`facilitator/guide.html`) with the run of show, prep checklists,
